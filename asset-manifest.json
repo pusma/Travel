@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Travel/static/css/main.501ab606.css",
+    "main.js": "/Travel/static/js/main.2223593f.js",
+    "static/media/motor-boat.mp4": "/Travel/static/media/motor-boat.bb9ced1bb519783b651f.mp4",
+    "static/media/Ocean.mp4": "/Travel/static/media/Ocean.c558b3941bac8a2f8208.mp4",
+    "static/media/img(9).jpg": "/Travel/static/media/img(9).a009168c880e841947a5.jpg",
+    "static/media/img(8).jpg": "/Travel/static/media/img(8).f7758158f0b380f915f5.jpg",
+    "static/media/mount.jpg": "/Travel/static/media/mount.bfc88343ee475b184da2.jpg",
+    "static/media/img(2).jpg": "/Travel/static/media/img(2).e8a53eec0456809ce436.jpg",
+    "static/media/img(7).jpg": "/Travel/static/media/img(7).de296dbb1fa7c90e3e6e.jpg",
+    "static/media/img(4).jpg": "/Travel/static/media/img(4).b8458d56448a830068b6.jpg",
+    "static/media/img(1).jpg": "/Travel/static/media/img(1).f841c27b489487c3eb63.jpg",
+    "static/media/team-3.jpeg": "/Travel/static/media/team-3.58ec01f9b93e2fa8b37c.jpeg",
+    "static/media/team-4.jpeg": "/Travel/static/media/team-4.ed504c814814f317a904.jpeg",
+    "static/media/team-1.jpeg": "/Travel/static/media/team-1.3e371dddab250d43af17.jpeg",
+    "static/media/team-2.jpeg": "/Travel/static/media/team-2.d34924742ab4d69f6ffe.jpeg",
+    "index.html": "/Travel/index.html",
+    "main.501ab606.css.map": "/Travel/static/css/main.501ab606.css.map",
+    "main.2223593f.js.map": "/Travel/static/js/main.2223593f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.501ab606.css",
+    "static/js/main.2223593f.js"
+  ]
+}
